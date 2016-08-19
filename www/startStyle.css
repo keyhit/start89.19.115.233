@@ -1,0 +1,23 @@
+.startStyle{
+	background-image: url("work in progress.jpg");
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 600px;
+	text-align: center;
+	margin: auto;
+	
+}
+.startStyle p {
+    color: #575757;
+    margin-bottom:500px;
+    text-align: center;
+}
+.startStyle a {
+    color: #414141;
+    margin: auto;
+    text-align: center;
+}
+
+.startStyle img {
+     margin: auto;
+}
